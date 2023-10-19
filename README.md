@@ -10,5 +10,5 @@ A network scanner tool with GUI.
 
 Thanks to [jorhelp](https://github.com/jorhelp/Ingram) for Ingram
 Thanks to [Aiminsun](https://github.com/Aiminsun/CVE-2021-36260) for CVE-2021-36260
-Thanks to [chrisjd20](https://github.com/chrisjd20/hikvision_CVE-2017-7921_auth_bypass_config_decryptor) for hidvision config file decryptor  
+Thanks to [chrisjd20](https://github.com/chrisjd20/hikvision_CVE-2017-7921_auth_bypass_config_decryptor) for hidvision config file decryptor
 Thanks to [mcw0](https://github.com/mcw0/DahuaConsole) for DahuaConsole
